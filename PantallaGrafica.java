@@ -43,7 +43,7 @@ public class PantallaGrafica
         precio = 0;
         for (int i=0; i< cantTerrenos; i++)
         {
-            precio = precio + terrenos.get(i).getPrecio();
+    ;
         }
     }
             
